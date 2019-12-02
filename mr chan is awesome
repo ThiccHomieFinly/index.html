@@ -1,5 +1,5 @@
 <html>
- <title>Examples Using List Tags</title>
+ <title>Shopping list for BBQ</title>
  <body bgcolor="yellow"> 
  <!...This is ignored by the computer...
  We'll create an example to demonstrate some ways of creating lists in HTML.
@@ -8,9 +8,11 @@
  
  <ul> <!-- Here is our unordered list tag -->
  <li>here is our first item</li> <1--list item-->
- <li> chan's garlic</li>
- <li>daniel's mccdonalds</li>
- <li>DORGAN'S acne medicine</li>
+ <li>Hamburger Meat</li>
+ <li>Bread</li>
+ <li>Chese</li>
+ <li>Toppings</li>
+ <li>Soda</li>
 </ul>
  
  </body>
